@@ -4,18 +4,10 @@
 ![image](https://img.shields.io/badge/vuex-3.0.1-blue.svg)
 ![image](https://img.shields.io/badge/mint--ui-2.2.13-blue.svg)
 
-## 公告
-原项目已拆分，此仓库保留今日头条（web端代码），[native端代码，请戳这里](https://github.com/uncleLian/vue2-native)
 
 ## 简介
 vue2-news 是一个仿今日头条移动端的项目，共4个页面，涉及文章的分类、展示、阅读、推荐、搜索等。
 
-## 说明
-> 如果此开源系列对你有帮助，你可以点右上角 "star"一下，以表支持，非常感谢！^_^ 🌹
-
-> 或者您可以 "follow（关注）" 一下作者，我正在不断开源更多实用的项目
-
-> 如有问题可以直接在 Issues 中提，或者加入我们下方Vue群更进一步地交流
 
 ## 最终目标
 Vue学习系列
